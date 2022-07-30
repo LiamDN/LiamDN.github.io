@@ -146,8 +146,8 @@ li {
     background-color: #003767;
     border-radius: 50%;
     text-align: center !important;
-    width: max(5vh, 2vw);
-    height: max(5vh, 2vw);
+    width: min(5vh, 4vw);
+    height: min(5vh, 4vw);
     display: flex;
     align-items: center;
     justify-content: center;
